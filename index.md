@@ -21,7 +21,7 @@ Edificio Alto Aragón, Piso 6, Oficina 6B.
 Quito, Ecuador  
 Tel: (593)3230221  
 e-mail: risko@webrisko.com
-https://www.webrisko.com/
+web: https://www.webrisko.com/
 
 
 
